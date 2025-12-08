@@ -1,7 +1,7 @@
 
 # Remote Conda Decorator
 
-一个轻量级 Python 工具，通过 `@wrap` 装饰器让函数无缝在指定的 Conda 虚拟环境中执行。专为数据科学优化，支持 Jupyter Notebook 及 **AnnData 零拷贝传输**。
+一个重量级 Python 工具，通过 `@wrap` 装饰器让函数无缝在指定的 Conda 虚拟环境中执行。专为数据科学优化，支持 Jupyter Notebook 及 **AnnData 零拷贝传输**。
 
 ## ✨ 特性
 
